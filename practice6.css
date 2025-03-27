@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+nav {
+    text-decoration: none;
+}
+img {
+    height: 100px;
+}
+#image_container {
+        height: 150px;
+        border: 2px solid black;
+        display: flex;
+        justify-content: center;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+    height: 30px;
+    padding: 3px;
+}
+header {
+    background-color: moccasin;
+}
